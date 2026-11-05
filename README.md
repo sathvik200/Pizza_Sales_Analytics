@@ -4,9 +4,9 @@ Analysis of one year of orders from a pizza restaurant (2015): **$817.9K in reve
 
 **Tools:** MySQL 8.0 · Excel (Power Query, Power Pivot / Data Model, DAX measures, PivotCharts, slicers, timeline)
 
-General Dashboard: https://github.com/sathvik200/Pizza_Sales_Analytics/blob/bbba4593016c12349d6fdd594cc92b290ed70bf4/Dashboard%20Analysis/Scrrenshots/General%20Analysis%20Dashboard.png
-Basket Analysis Dashboard: https://github.com/sathvik200/Pizza_Sales_Analytics/blob/94f10ba4fb291cbe243cd0ee4c0357f6903b703b/Dashboard%20Analysis/Scrrenshots/Basket%20Analysis%20Dashboard.png
-
+General Dashboard: 
+![General analysis dashboard](Dashboard%20Analysis/Scrrenshots/General%20Analysis%20Dashboard.png)
+![Basket analysis dashboard](Dashboard%20Analysis/Scrrenshots/Basket%20Analysis%20Dashboard.png)
 ---
 
 ## Key findings
